@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Diogo Revérson</h1>
-<h3 align="center">Apaixonado por DSA e tudo que envolva o digital!</h3>
+<h3 align="center">Apaixonado por DSA e tudo que envolva o mundo digital!</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, R, SQL, Machine Learning**
 
