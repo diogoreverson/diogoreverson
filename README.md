@@ -5,8 +5,6 @@
 
 - 👯 Compartilho meu conhecimento com crianças da minha cidade no projeto social **Jardim Labs**
 
-- 📝 Começarei a escrever alguns post no Medium: [https://medium.com/](https://medium.com/)
-
 - 💬 Me pergunte sobre: **Python, R, SQL, Estatística**
 
 - 📫 Você me acha através do e-mail: **d.reverson@live.com**
