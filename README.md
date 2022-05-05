@@ -5,7 +5,7 @@
 
 - 👯 Compartilho meu conhecimento com crianças da minha cidade no projeto social **Jardim Labs**
 
-- 💬 Me pergunte sobre: **Python, R, SQL, Estatística**
+- 💬 Me pergunte sobre: **Python, R, SQL, Estatística e "Multiverso"**
 
 - 📫 Você me acha através do e-mail: **d.reverson@live.com**
 
