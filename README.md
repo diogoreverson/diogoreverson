@@ -1,17 +1,24 @@
 <h1 align="center">Oi 👋, Eu sou Diogo Revérson</h1>
 <h3 align="center">Apaixonado por DSA e tudo que envolva o mundo digital!</h3>
 
+- 🧍‍♂️ Pronomes: **Ele, Dele...**
+
 - 🌱 Atualmente estou aprendendo **Python, R, SQL, Machine Learning**
 
 - 👯 Compartilho meu conhecimento com crianças da minha cidade no projeto social **Jardim Labs**
 
 - 💬 Me pergunte sobre: **Python, R, SQL, Estatística e "Multiverso"**
 
-- 📫 Você me acha através do e-mail: **d.reverson@live.com**
-
 - 📄 Veja minha tragetória profissional pelo Linkedin [https://www.linkedin.com/in/diogo-reverson/](https://www.linkedin.com/in/diogo-reverson/)
 
 - ⚡ Fato engraçado **Eu quase sempre sou o maior do grupo.**
+<div>
+  <a href="https://github.com/diogoreverson">
+  <img heiht="180cm" src="https://github-readme-stats.vercel.app/api?username=diogoreverson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img heiht="180cm" width="505" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoreverson&layout=compact&=langs_count=16&theme=dark"/>
+ </div>
+ 
+##
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
