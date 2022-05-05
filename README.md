@@ -5,8 +5,6 @@
 
 - 🌱 Atualmente estou aprendendo **Python, R, SQL, Machine Learning**
 
-- 👯 Compartilho meu conhecimento com crianças da minha cidade no projeto social **Jardim Labs**
-
 - 💬 Me pergunte sobre: **Python, R, SQL, Estatística e "Multiverso"**
 
 - ⚡ Fato engraçado: **Eu quase sempre sou o maior do grupo.**
