@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, R, SQL, Machine Learning**
 
-- 💬 Me pergunte sobre: **Python, R, SQL, Estatística e "Multiverso"**
+- 💬 Me pergunte sobre: **Python, R, SQL, Estatística e "Multiverso e Metaverso"**
 
 - ⚡ Fato engraçado: **Eu quase sempre sou o maior do grupo.**
 <div align="center">
